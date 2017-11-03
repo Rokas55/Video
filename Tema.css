@@ -1,61 +1,42 @@
+
 {
-	"room": "Maroz",
-	"author": "",
-	"icon": "https:\/\/i.imgur.com\/0ifNl6L.png",
-	"css": "",
-	
-	"colors": {
+    "author": "Marozaai",
+    "colors": {
+        "background": "https:\/\/imgur.com\/0ifNl6L",
         "chat": {
+            "admin": "#",
+            "ambassador": "#",
+            "bouncer": "#",
+            "cohost": "#",
+            "residentdj": "#",
             "host": "#",
-			"cohost": "#",
-			"manager": "#",
-		    "bouncer": "#",
-		    "rdj": "#",
-	    	"subscriber": "#",
-	    	"silversubscraiber": "#",
-	    	"friend": "#",
-	    	"user": "#"
+            "manager": "#"
         },
-        "footer": "#",
-        "header": "#"
+        "footer": "",
+        "header": ""
     },
-	
-	"rules": {
-		"allowAutorespond": true,
-		"allowAutowoot": true,
-		"allowAutojoin": false,
-		"allowAutograb": true,
-		"allowSmartVote": true,
-		"allowEmotes": true,
-		"allowShowingMehs": true,
-		"forceSmartVote": false
-	},
-	
-	"ccc": {
-		"admin": "#",
-		"ambassador": "#",
-		"host": "#",
-		"cohost": "#",
-		"manager": "#",
-		"bouncer": "#",
-		"rdj": "#",
-		"subscriber": "#",
-		"silversubscraiber": "#",
-		"friend": "#",
-		"user": "#"
-	},
-	
+    "css": {
+        "font": [],
+        "import": [""],
+        "rule": {}
+    },
     "images": {
-		"background": "https:\/\/i.imgur.com\/0ifNl6L.png",
-		"playback": "url da imagem",
-		"host": "url da imagem",
-		"cohost": "url da imagem",
-		"manager": "url da imagem",
-		"bouncer": "url da imagem",
-		"rdj": "url da imagem"
+        "background": "",
+        "booth": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "playback": ""
     },
-		
-    "emotes": {
-		"rs": "https://i.imgur.com/jleilmo.gif"
-		}
+    "rules": {
+        "allowAutojoin": "true",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true"
+    }
 }
